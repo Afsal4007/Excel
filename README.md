@@ -40,7 +40,7 @@ The project answers the following 5 important business questions:
 ---------------
 The Excel dashboard provides a visual summary of the hospital-management data.
 **Total Appoinments, Total BILLING AMOUNT, AVERAGE TREATMENT AMOUNT, MONTHLY BILLING REVENUE, APPOINTMENTS BY DOCTOR, REVENUE BY DOCTOR, REASONS FOR PATIENT VISITS,REVENUE BY TREATMENT**
-Dashboard <ahref="https://github.com/Afsal4007/Excel/blob/main/Screenshot%202026-09-21%20095949.png">DASHBOARD</a>
+Dashboard <a href="https://github.com/Afsal4007/Excel/blob/main/Screenshot%202026-09-21%20095949.png">DASHBOARD</a>
 
 
  KEY FINDINGS
@@ -73,7 +73,7 @@ Dashboard <ahref="https://github.com/Afsal4007/Excel/blob/main/Screenshot%202026
   
    ORIGINAL DATASET
 -------------------
-https://www.kaggle.com/datas ets/kanakbaghel/hospital-ma nagement-dataset?select=ap pointments.csv
+https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset?select=appointments.csv
 
  PROJECT OBJECTIVE
 --------------------
